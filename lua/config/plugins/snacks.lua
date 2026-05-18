@@ -1,5 +1,5 @@
 return {
-    "folke/snacks.nvim",
+    'folke/snacks.nvim',
     lazy = false,
     ---@module "snacks"
     ---@type snacks.Config

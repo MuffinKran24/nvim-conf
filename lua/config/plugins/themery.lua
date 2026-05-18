@@ -1,5 +1,5 @@
 return {
-  "zaldih/themery.nvim",
+  'zaldih/themery.nvim',
   lazy = false,
   config = function()
     require("themery").setup({
