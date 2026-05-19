@@ -8,7 +8,6 @@
 - statusline (also with themes)
 - toggleable terminal
 - epic start menu (credits to user '[timteeee' on github](https://github.com/timteeee/))
-- wakatime to track time programming (although it doesn't track correctly)
 - color and markdown preview
 
 #### you need a nerd font for some things to render correctly
