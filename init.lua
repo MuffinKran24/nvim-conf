@@ -45,6 +45,8 @@ vim.keymap.set('n', '<C-a>', '<cmd>tabprevious<CR>', { desc = 'Previous Tab' })
 vim.keymap.set('n', '<C-w>', '<cmd>tabclose<CR>', { desc = 'Close Tab' })
 
 vim.keymap.set('n', '<A-t>', '<cmd>Themery<CR>', { desc = 'Open Theme selector' })
+vim.keymap.set('n', '<A-l>', '<cmd>OpenUrlUnderCursor<CR>', { desc = 'Open link under cursor' })
+
 
 vim.filetype.add({
   extension = {
