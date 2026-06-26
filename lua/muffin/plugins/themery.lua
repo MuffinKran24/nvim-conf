@@ -53,7 +53,7 @@ return {
         },
       },
 
-      livePreview = true, -- Apply theme while picking. Default to true.
+      livePreview = true,
     })
   end
 }

@@ -24,9 +24,9 @@ vim.g.maplocalleader = "\\"
 -- Setup lazy.nvim
 require("lazy").setup({
   spec = {
-	{ import = "config.themes" },
-  { import = "config.plugins" },
-  	{ import = "config.plugins.lsp" },
-    { import = "config.plugins.filebrowsing" },
+	  { import = "muffin.themes" },
+    { import = "muffin.plugins" },
+  	  { import = "muffin.plugins.lsp" },
+      { import = "muffin.plugins.filebrowsing" },
   },
 })
